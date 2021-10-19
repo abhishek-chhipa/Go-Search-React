@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Go-Search-React/static/css/main.326e16a3.chunk.css",
+    "main.js": "/Go-Search-React/static/js/main.ceadfa70.chunk.js",
+    "main.js.map": "/Go-Search-React/static/js/main.ceadfa70.chunk.js.map",
+    "runtime-main.js": "/Go-Search-React/static/js/runtime-main.a9be1d63.js",
+    "runtime-main.js.map": "/Go-Search-React/static/js/runtime-main.a9be1d63.js.map",
+    "static/js/2.7c60bb1a.chunk.js": "/Go-Search-React/static/js/2.7c60bb1a.chunk.js",
+    "static/js/2.7c60bb1a.chunk.js.map": "/Go-Search-React/static/js/2.7c60bb1a.chunk.js.map",
+    "index.html": "/Go-Search-React/index.html",
+    "static/css/main.326e16a3.chunk.css.map": "/Go-Search-React/static/css/main.326e16a3.chunk.css.map",
+    "static/js/2.7c60bb1a.chunk.js.LICENSE.txt": "/Go-Search-React/static/js/2.7c60bb1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9be1d63.js",
+    "static/js/2.7c60bb1a.chunk.js",
+    "static/css/main.326e16a3.chunk.css",
+    "static/js/main.ceadfa70.chunk.js"
+  ]
+}
